@@ -7,4 +7,7 @@ public class demo3 {
     public static void main(String[] args) {
         System.out.println(444555666);
     }
+    public void ssh(){
+        System.out.println(777);
+    }
 }
