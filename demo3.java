@@ -10,4 +10,7 @@ public class demo3 {
     public void ssh(){
         System.out.println(777);
     }
+    public void ssh(){
+        System.out.println(888);
+    }
 }
